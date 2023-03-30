@@ -22,5 +22,6 @@ Connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek_M_J-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-m-j-607964225/)](https://www.linkedin.com/in/abhishek-m-j-607964225/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishekmj303@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:abhishekmj303@gmail.com)](mailto:abhishekmj303@gmail.com)
 
-[![abhishekmj303's github stats](https://github-readme-stats.vercel.app/api?username=abhishekmj303&theme=dark&show_icons=true)](https://github.com/abhishekmj303)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&theme=dark&exclude_repo=ADS-lab,TSP-using-GA)
 
+[![abhishekmj303's github stats](https://github-readme-stats.vercel.app/api?username=abhishekmj303&theme=dark&show_icons=true)](https://github.com/abhishekmj303)
