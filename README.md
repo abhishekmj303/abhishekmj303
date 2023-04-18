@@ -25,3 +25,5 @@ Connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&theme=dark&exclude_repo=ADS-lab,TSP-using-GA)
 
 [![abhishekmj303's github stats](https://github-readme-stats.vercel.app/api?username=abhishekmj303&theme=dark&show_icons=true)](https://github.com/abhishekmj303)
+
+![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake.svg)
