@@ -15,10 +15,10 @@ Feel free to connect with me here:
 
 ## 📈 Stats 📉
 
-<table style=>
+<table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages"></td>
   </tr>
 </table>
 
