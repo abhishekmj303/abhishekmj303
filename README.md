@@ -24,7 +24,7 @@ Feel free to connect with me here:
   </tr>
 </table>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishekmj303&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha)
 
 ![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake.svg)
 
