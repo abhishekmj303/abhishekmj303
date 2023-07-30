@@ -26,7 +26,7 @@ Feel free to connect with me here:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha&exclude_days=Sat%2CSun)
 
-![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
