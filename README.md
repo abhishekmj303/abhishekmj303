@@ -17,12 +17,14 @@ Feel free to connect with me here:
 
 [![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhishekmj303&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fabhishekmj303)
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages"></td>
-  </tr>
-</table>
+
+<a>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+</a>
+<a>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+</a>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha)
 
