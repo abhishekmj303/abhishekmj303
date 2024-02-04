@@ -22,7 +22,7 @@ Feel free to connect with me here:
   <img height=140 src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab,DL-lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 <img height=140 src="https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
