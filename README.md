@@ -19,13 +19,13 @@ Feel free to connect with me here:
 
 
 <a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&hide_rank=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmj303&hide_rank=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmj303&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
-<img height=140 src="https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=abhishekmj303&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
 
 
 ![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake-dark.svg)
