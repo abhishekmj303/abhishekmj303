@@ -1,6 +1,6 @@
 # Hi there <img src="wave.gif" width=33>
 
-I'm Abhishek M J, a final year computer science undergraduate from [IIIT Kancheepuram](https://www.iiitdm.ac.in/). I'm a curious developer with a penchant for problem-solving and creating meaningful applications. I love automating boring stuffs. ✌ Let's build something awesome!
+I'm Abhishek M J, a curious developer with a penchant for problem-solving and creating meaningful applications. I love automating boring stuffs. ✌ Let's build something awesome!
 
 Feel free to connect with me here:
 <div align="center">
